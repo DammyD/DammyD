@@ -101,6 +101,7 @@ header.shadow .logo {
     height: 2px;
     background: var(--bg-color);
     position: absolute;
+    
     bottom: -4px;
     left: 0;
     transition: 0.4s all linear;
